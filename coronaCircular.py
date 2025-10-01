@@ -1,5 +1,5 @@
 print("Corona Circular")
-print("")
+print("---------------")
 
 radio_ma = float(input("Ingresa radio mayor: "))
 radio_me = float(input("Ingresa radio menor: "))
