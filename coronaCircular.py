@@ -1,3 +1,4 @@
+print("・‥…━━━━━━━☆rคຖitค☆━━━━━━━…‥・")
 print("Corona Circular")
 print("---------------")
 
